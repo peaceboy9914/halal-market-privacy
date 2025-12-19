@@ -22,22 +22,15 @@ By using Halal Market, you agree to the collection and use of information in acc
 ### 2.1 Information You Provide Directly
 
 #### Account Information
-- **Vendors**: When you sign in with Google Sign-In, we collect:
+- **Vendors**: When you sign in with
   - Your Google account email address
   - Your name and profile picture (from Google account)
   - Your phone number (if provided during store setup)
   
-- **Investors**: When you register for Islamic finance services, we collect:
-  - Name
-  - Email address
-  - Phone number
-  - Deposit and investment information
-
-- **Employees**: When you register for the referral program, we collect:
-  - Name
-  - Email address
-  - Phone number
-  - Referral code and referral activity
+- **Customers**: When you create an account, we collect:
+  - Your Google account email address (if using Google Sign-In)
+  - Your name and profile picture (from Google account)
+  - Your phone number (optional, for contacting vendors)
 
 #### Store and Business Information (Vendors)
 - Store name and description
@@ -129,8 +122,7 @@ We use the collected information for the following purposes:
 ### 3.3 Business Operations
 - **Product Listing Fees**: Process and verify payment receipts for product listings (1% of product price)
 - **Admin Review**: Enable administrators to review and approve stores and products
-- **Referral System**: Track and manage referral bonuses for employees
-- **Islamic Finance**: Manage deposits and investments (if applicable)
+- **Vendor Referrals**: Track referral codes used during vendor store setup (for vendor referral tracking only)
 
 ### 3.4 Analytics and Improvement
 - **App Analytics**: Understand how users interact with the app
@@ -315,5 +307,6 @@ This Privacy Policy is available in English. We may provide translations in Amha
 
 **Last Updated:** December 11, 2025  
 **Version:** 1.0
+
 
 
